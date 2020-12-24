@@ -6,5 +6,5 @@ This project aims to leverage AI to predict someone's age from their facial feat
 
 Data sourced from Kaggle : 
 https://www.kaggle.com/nipunarora8/age-gender-and-ethnicity-face-data-csv
-
+Due to large file size of the orignal csv, I've omitted it here as well as the raw photos themselves. For sake of reproducability you can download the csv from the link above and run it through the EDA notebook. 
 Model performance can be found in the Models.ipynb file in Notebooks.
