@@ -1,0 +1,13 @@
+name: Tweet
+
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - pip
+  - requests
